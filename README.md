@@ -53,5 +53,3 @@
 ## 🧠 Frase
 
 > "Código limpo não é escrito por acaso, é construído com disciplina."
-
-> "Código limpo não é escrito por acaso, é construído com disciplina."
