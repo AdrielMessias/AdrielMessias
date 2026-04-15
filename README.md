@@ -39,7 +39,8 @@
 ## 🚀 Projetos em destaque
 
 - 📱 Fokus – Aplicativo de produtividade  
-- 💰 Sistema Bancário CLI  
+- 💰 Sistema Bancário CLI
+- ✅ To-Do List (Lista de Tarefas)
 
 ---
 
